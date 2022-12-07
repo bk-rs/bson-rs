@@ -1,0 +1,15 @@
+[package]
+name = "bson-oid-timestamp"
+version = "0.0.0"
+authors = ["vkill <vkill.net@gmail.com>"]
+edition = "2021"
+description = "BSON ObjectId timestamp"
+license = "Apache-2.0 OR MIT"
+repository = "https://github.com/bk-rs/bson-rs"
+homepage = "https://github.com/bk-rs/bson-rs"
+documentation = "https://docs.rs/bson-oid-timestamp"
+keywords = []
+categories = []
+readme = "README.md"
+
+[dependencies]
